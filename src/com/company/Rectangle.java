@@ -43,7 +43,6 @@ public class Rectangle {
             return "прямоугольникa";
         }
     }
-
     public boolean isTheSameRectangle(Rectangle R2) {
         if (R2.x==this.x & R2.y==this.y ) {
             return true;
