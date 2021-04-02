@@ -1,0 +1,84 @@
+#############################
+## Ява
+#############################
+.mtj.tmp /
+*.класс
+*.банка
+*.война
+*.ухо
+* .nar
+hs_err_pid *
+
+#############################
+## Maven
+#############################
+цель/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+уменьшенная зависимость-pom.xml
+buildNumber.properties
+.mvn / Timing.properties
+.mvn / обертка / maven-wrapper.jar
+
+#############################
+## Gradle
+#############################
+bin /
+строить/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+! gradle-wrapper.jar
+
+#############################
+## IntelliJ
+#############################
+из/
+.idea /
+.idea_modules /
+* .iml
+* .ipr
+* .iws
+
+#############################
+## Затмение
+#############################
+.настройки/
+bin /
+tmp /
+.metadata
+.classpath
+.проект
+* .tmp
+* .bak
+* .swp
+* ~ .nib
+local.properties
+.loadpath
+.factorypath
+
+#############################
+## NetBeans
+#############################
+nbproject / частный /
+строить/
+nbbuild /
+dist /
+nbdist /
+nbactions.xml
+nb-configuration.xml
+
+#############################
+## Код Visual Studio
+#############################
+.vscode /
+.code-рабочая область
+
+#############################
+## OS X
+#############################
+.DS_Store
