@@ -1,6 +1,6 @@
 package com.company;
 
-import org.jetbrains.annotations.NotNull;
+
 
 import javax.swing.*;
 
@@ -44,7 +44,7 @@ public class Rectangle {
         }
     }
 
-    public boolean isTheSameRectangle(@NotNull Rectangle R2) {
+    public boolean isTheSameRectangle(Rectangle R2) {
         if (R2.x==this.x & R2.y==this.y ) {
             return true;
         } else {
