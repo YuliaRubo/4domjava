@@ -49,7 +49,6 @@ public class Rectangle {
             return true;
         } else {
             return false;
-
         }
     }
 
